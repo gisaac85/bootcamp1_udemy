@@ -13,20 +13,20 @@ When you're learning to program you often have to sacrifice learning the excitin
 
 Throughout the course we cover tons of tools and technologies including:
 
-HTML5
-CSS3
-JavaScript
-Bootstrap
-SemanticUI
-DOM Manipulation
-jQuery
-Unix(Command Line) Commands
-NodeJS
-NPM
-ExpressJS
-REST
-MongoDB
-Database Associations
+#HTML5
+#CSS3
+#JavaScript
+#Bootstrap
+#SemanticUI
+#DOM Manipulation
+#jQuery
+#Unix(Command Line) Commands
+#NodeJS
+#NPM
+#ExpressJS
+#REST
+#MongoDB
+#Database Associations
 Authentication
 PassportJS
 Authorization
