@@ -1,5 +1,5 @@
 # Web Developer Bootcamp - udemy
-<p>Hi! Welcome to the <h3>Web Developer Bootcamp</h3>, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market. Here's why:</p>
+<p>Hi! Welcome to the <strong><i>Web Developer Bootcamp</i></strong>, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market. Here's why:</p>
 <ul>
   <li>This is the only online course taught by a professional bootcamp instructor.</li>
 <li>94% of my in-person bootcamp students go on to get full-time developer jobs. Most of them are complete beginners when I start working with them.</li>
@@ -10,7 +10,7 @@
 <li>The course is constantly updated with new content, projects, and modules. Think of it as a subscription to a never-ending supply of developer training.</li>
   <li>You get to meet my dog Rusty!</li>
 <li>When you're learning to program you often have to sacrifice learning the exciting and current technologies in favor of the "beginner friendly" classes. With this course, you get the best of both worlds. This is a course designed for the complete beginner, yet it covers some of the most exciting and relevant topics in the industry.</li>
-<br /> <br /> <hr />
+<br /> <hr />
 <p>Throughout the course we cover tons of tools and technologies including:</p>
 
 <ul>
