@@ -13,8 +13,9 @@ When you're learning to program you often have to sacrifice learning the excitin
 
 * Throughout the course we cover tons of tools and technologies including:
 
-> HTML5
-> CSS3
+<ul>
+  <li> HTML5 </li>
+  <li>CSS3</li>
 #JavaScript
 #Bootstrap
 #SemanticUI
