@@ -11,10 +11,10 @@ The course is constantly updated with new content, projects, and modules. Think 
 You get to meet my dog Rusty!
 When you're learning to program you often have to sacrifice learning the exciting and current technologies in favor of the "beginner friendly" classes. With this course, you get the best of both worlds. This is a course designed for the complete beginner, yet it covers some of the most exciting and relevant topics in the industry.
 
-Throughout the course we cover tons of tools and technologies including:
+* Throughout the course we cover tons of tools and technologies including:
 
-#HTML5
-#CSS3
+> HTML5
+> CSS3
 #JavaScript
 #Bootstrap
 #SemanticUI
